@@ -38,7 +38,7 @@ include('../../authentication/connection.php');
                             <span class="icon">
                                 <ion-icon name="person-circle"></ion-icon>
                             </span>
-                            <span class="title">Welcome, Ansh Bhai</span>
+                            <span class="title">Welcome, Nitish</span>
                         </a>
                     </li>
 
